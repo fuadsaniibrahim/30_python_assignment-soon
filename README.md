@@ -1,2 +1,2 @@
-# 30_python_assignment-soon
+# 30_python_assignments
 My Assignments
